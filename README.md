@@ -4,7 +4,7 @@
 # Instalar o seguintes arquivos
 * Visual Studio Community;
 * Node.js;
-* SDK Asp net Core 3.0;
+* SDK Asp net Core 3.1;
 * Git;
 
 # Instalações pela linha de comando

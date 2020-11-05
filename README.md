@@ -1,20 +1,16 @@
 
-# Trabalho no olist
-Olist é uma empresa que oferece uma plataforma de integração para vendedores e marketplaces, permitindo-lhes vender seus produtos em vários canais.
+# Configurações para execução da aplicação
 
-A equipe de desenvolvimento Olist consiste em desenvolvedores que amam o que fazem. Nossos processos de desenvolvimento ágil e nossa busca pelas melhores práticas de desenvolvimento proporcionam um ótimo ambiente para profissionais que gostam de criar softwares de qualidade em boa companhia.
+# Instalar:
+* Visual Studio Community;
+* Node.js;
+* SDK Asp net Core 3.1;
+* Git;
 
-Estamos sempre à procura de bons programadores que adorem melhorar seu trabalho. 
+# Instalações pela linha de comando
+* Após instalar o node.js instalar o CLI do Angular através do comando "npm install -g @angular/cli"
+* Após realizar o fork do projeto, acessar a pasta "TechStartPro/TechStartPro/ClientApp/" e executar o comando "npm install" para instalar as dependencias do front-end do projeto.
 
-Este repositório contém um problema usado para avaliar as habilidades do candidato. É importante notar que resolver satisfatoriamente o problema é apenas uma parte do que será avaliado. Também consideramos outras disciplinas de programação como documentação, teste, cronograma de commit, design e melhores práticas de codificação.
-
-
-# Dicas:
-
-* Leia atentamente a especificação para entender todos os requisitos do problema e do artefato antes de começar, se você não entender algo, diga-nos;
-* Verifique as recomendações e o material de referência no final desta especificação;
-* Apreciamos a simplicidade, portanto, crie uma boa configuração de projeto que nos ajudará na sua avaliação;
-* Por favor, faça testes ... nós apreciamos testes <3 ... testes tornam o mundo melhor.
 
 # Como participar
 * Faça um fork deste repositório no Github. Se você não pode criar um fork público deste projeto, faça um repositório privado e adicione permissão de leitura para o usuário abaixo:

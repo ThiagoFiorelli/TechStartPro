@@ -17,5 +17,8 @@
 * Abra o Package Manager Console (no VS Tools >> NuGet Package Manager >> Package Manager Console);
 * No Package Manager Console executar o comando "Add-Migration Initial" e depois "Update-Database" para criar e mapear as estruturas no banco de dados local.
 
+# Acesse o swagger para visualizar metódos
+* Como o projeto executando, acesse a rota "(seulocalhost)/swagger" para visualizar os métodos gerados e fazer testes das APIs rest.
+
 Após isso é só navegar pelas telas Categorias, para importar um arquivo .csv que gerará um objeto no banco de dados, e Produtos, para criar, editar, e deletar produtos.
   

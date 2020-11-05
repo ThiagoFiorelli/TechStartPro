@@ -5,7 +5,7 @@
 * Visual Studio Community;
 * Node.js;
 * SDK Asp net Core 3.1;
-* Git;
+* Git.
 
 # Instalações pela linha de comando
 * Após instalar o node.js instalar o CLI do Angular através do comando "npm install -g @angular/cli";
